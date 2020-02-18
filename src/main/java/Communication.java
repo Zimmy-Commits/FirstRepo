@@ -10,5 +10,9 @@ public class Communication {
         System.out.println("its great");
 
         System.out.println("What a new experience");
+
+        System.out.println("A Lot of work tho");
+
+
     }
 }
