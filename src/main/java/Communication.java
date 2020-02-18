@@ -8,5 +8,7 @@ public class Communication {
         System.out.println("Here is my first maven project");
 
         System.out.println("its great");
+
+        System.out.println("What a new experience");
     }
 }
